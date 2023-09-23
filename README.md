@@ -77,7 +77,10 @@
 
 
 <hr>
-<img style="height:50%;width:33%;max-width: 5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=halleluujahh&theme=nightowl&langs_count=4&show_icons=true"/>   <img style="height:100%;width:64%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=halleluujahh&theme=nightowl&column=7&count_private=true&show_icons=true&include_all_commits=true"/>
+<div style="display: flex">
+<img style="margin-right: 10px;height:50%;width:45%;max-width: 5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halleluujahh&layout=compact&theme=dracula""/> 
+<img style="height:100%;width:54%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=halleluujahh&show_icons=true&theme=dark"/>
+</div>
 <hr>
 
 
