@@ -64,7 +64,7 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
       </a>
       <a href="https://learn.microsoft.com/vi-vn/dotnet/welcome" target="_blank" rel="noreferrer"> 
-        <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt="spring" width="60" height="60"/> 
+        <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt="spring" width="60" height="40"/> 
       </a>
     </td>
     <td align="center">
