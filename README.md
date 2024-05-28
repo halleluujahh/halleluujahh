@@ -85,8 +85,9 @@
 <img style="height:100%;width:54%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=halleluujahh&show_icons=true&theme=dark"/>
 </div> -->
 # 📊 Stats: 
-https://github-readme-stats.vercel.app/api?username=halleluujahh &theme=github_dark&show_icons=true&hide_border=false&rank_icon=percentile&include_all_commits=false&count_private=false
-https://github-readme-stats.vercel.app/api/top-langs/?username=halleluujahh&theme=github_dark&hide_border=false&layout=compact
+![](https://github-readme-stats.vercel.app/api?username=halleluujahh&theme=github_dark&show_icons=true&hide_border=false&rank_icon=percentile&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=halleluujahh&theme=github_dark&hide_border=false&layout=compact)
+<!--https://github.com/anuraghazra/github-readme-stats-->
 <hr>
 
 
