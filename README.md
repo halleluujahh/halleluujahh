@@ -28,6 +28,15 @@
       <h3>Backend End Development</h3>
     </td>
     <td align="center">
+      <h3>Backend as a Service</h3>
+    </td>
+    <td align="center">
+      <h3>Tools</h3>
+    </td>
+    <td align="center">
+      <h3>Game Engines</h3>
+    </td>
+    <td align="center">
       <h3>Database</h3>
     </td>
   </tr>
@@ -59,6 +68,9 @@
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -66,6 +78,21 @@
       </a>
       <a href="https://learn.microsoft.com/vi-vn/dotnet/welcome" target="_blank" rel="noreferrer"> 
         <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt="spring" width="60" height="40"/> 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
       </a>
     </td>
     <td align="center">
